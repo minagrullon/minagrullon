@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mina D. Grullon</h1>
-<h3 align="center">A am student on the road to becoming a Full-Stack developer from New York.</h3>
+<h3 align="center">I am a student on the road to becoming a Full-Stack developer from New York.</h3>
 
 ![giffy](https://user-images.githubusercontent.com/105737546/175617663-4f4314b7-4635-48b9-ab56-25de8939f81c.gif)
 
